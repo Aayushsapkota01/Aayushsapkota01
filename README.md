@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sapkotaaayush10" target="blank"><img src="https://img.shields.io/twitter/follow/sapkotaaayush10?logo=twitter&style=for-the-badge" alt="sapkotaaayush10" /></a> </p>
 
-- 🔭 I’m currently working on **Front End Projects**
+- 🔭 I’m currently working on **FullStack Projects**
 
 - 🌱 I’m currently learning **MERN, React-Native**
 
